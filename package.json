@@ -1,5 +1,5 @@
 {
-  "name": "cordova-windows",
+  "name": "windows",
   "version": "8.0.0-dev",
   "description": "cordova-windows release",
   "bin": "bin/create",
